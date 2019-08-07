@@ -1,0 +1,621 @@
+winner,loser,win,loss,matchup_strength
+Aatrox,Akali,3.0,4.0,-2.0
+Aatrox,Azir,3.0,1.0,4.0
+Aatrox,Camille,7.0,10.0,-6.0
+Aatrox,Fiora,7.0,6.0,2.0
+Aatrox,Gangplank,11.0,5.0,12.0
+Aatrox,Gnar,1.0,6.0,-10.0
+Aatrox,Gragas,1.0,1.0,0.0
+Aatrox,Irelia,10.0,5.0,10.0
+Aatrox,Jax,2.0,5.0,-6.0
+Aatrox,Jayce,14.0,9.0,10.0
+Aatrox,Karma,3.0,1.0,4.0
+Aatrox,Kennen,11.0,10.0,2.0
+Aatrox,Kled,1.0,1.0,0.0
+Aatrox,Neeko,5.0,7.0,-4.0
+Aatrox,Rek'Sai,1.0,1.0,0.0
+Aatrox,Renekton,3.0,2.0,2.0
+Aatrox,Riven,1.0,1.0,0.0
+Aatrox,Ryze,2.0,3.0,-2.0
+Aatrox,Sejuani,1.0,2.0,-2.0
+Aatrox,Sion,1.0,3.0,-4.0
+Aatrox,Sylas,2.0,6.0,-8.0
+Aatrox,Yasuo,1.0,1.0,0.0
+Akali,Aatrox,4.0,3.0,2.0
+Akali,Azir,4.0,6.0,-4.0
+Akali,Corki,3.0,2.0,2.0
+Akali,Gangplank,2.0,1.0,2.0
+Akali,Irelia,5.0,2.0,6.0
+Akali,Jayce,2.0,3.0,-2.0
+Akali,Karma,2.0,1.0,2.0
+Akali,Renekton,3.0,5.0,-4.0
+Akali,Ryze,3.0,3.0,0.0
+Akali,Sylas,5.0,5.0,0.0
+Akali,Vladimir,1.0,1.0,0.0
+Akali,Yasuo,2.0,2.0,0.0
+Alistar,Lux,2.0,1.0,2.0
+Alistar,Nautilus,7.0,3.0,8.0
+Alistar,Yuumi,7.0,4.0,6.0
+Anivia,Azir,1.0,1.0,0.0
+Ashe,Ezreal,1.0,3.0,-4.0
+Ashe,Kai'Sa,2.0,1.0,2.0
+Ashe,Lucian,1.0,2.0,-2.0
+Ashe,Sivir,4.0,4.0,0.0
+Ashe,Sona,1.0,1.0,0.0
+Ashe,Varus,3.0,3.0,0.0
+Ashe,Xayah,4.0,2.0,4.0
+Azir,Aatrox,1.0,3.0,-4.0
+Azir,Akali,6.0,4.0,4.0
+Azir,Anivia,1.0,1.0,0.0
+Azir,Camille,1.0,2.0,-2.0
+Azir,Corki,16.0,25.0,-18.0
+Azir,Ekko,1.0,1.0,0.0
+Azir,Irelia,3.0,1.0,4.0
+Azir,Jayce,3.0,3.0,0.0
+Azir,Karma,2.0,2.0,0.0
+Azir,LeBlanc,6.0,3.0,6.0
+Azir,Neeko,5.0,4.0,2.0
+Azir,Orianna,2.0,2.0,0.0
+Azir,Qiyana,2.0,3.0,-2.0
+Azir,Sylas,1.0,6.0,-10.0
+Azir,Taliyah,4.0,2.0,4.0
+Azir,Twisted Fate,1.0,1.0,0.0
+Azir,Veigar,1.0,2.0,-2.0
+Azir,Vel'koz,2.0,1.0,2.0
+Azir,Zoe,7.0,6.0,2.0
+Braum,Galio,1.0,3.0,-4.0
+Braum,Lux,3.0,4.0,-2.0
+Braum,Nautilus,10.0,9.0,2.0
+Braum,Rakan,3.0,3.0,0.0
+Braum,Tahm Kench,19.0,20.0,-2.0
+Braum,Thresh,2.0,1.0,2.0
+Braum,Yuumi,1.0,2.0,-2.0
+Caitlyn,Ezreal,1.0,2.0,-2.0
+Caitlyn,Lucian,1.0,1.0,0.0
+Caitlyn,Sivir,4.0,1.0,6.0
+Caitlyn,Sona,2.0,3.0,-2.0
+Caitlyn,Varus,1.0,4.0,-6.0
+Caitlyn,Xayah,6.0,2.0,8.0
+Camille,Aatrox,10.0,7.0,6.0
+Camille,Azir,2.0,1.0,2.0
+Camille,Gnar,1.0,3.0,-4.0
+Camille,Jayce,3.0,6.0,-6.0
+Camille,Karma,1.0,1.0,0.0
+Camille,Kennen,1.0,2.0,-2.0
+Camille,Lissandra,1.0,1.0,0.0
+Camille,Mordekaiser,1.0,3.0,-4.0
+Camille,Renekton,2.0,3.0,-2.0
+Camille,Vladimir,3.0,1.0,4.0
+Cassiopeia,Corki,2.0,3.0,-2.0
+Corki,Akali,2.0,3.0,-2.0
+Corki,Azir,25.0,16.0,18.0
+Corki,Cassiopeia,3.0,2.0,2.0
+Corki,Irelia,2.0,1.0,2.0
+Corki,Jayce,1.0,3.0,-4.0
+Corki,Karma,2.0,2.0,0.0
+Corki,Lissandra,2.0,1.0,2.0
+Corki,Lucian,1.0,1.0,0.0
+Corki,Neeko,2.0,1.0,2.0
+Corki,Ryze,1.0,4.0,-6.0
+Corki,Sylas,1.0,2.0,-2.0
+Corki,Taliyah,1.0,1.0,0.0
+Corki,Veigar,1.0,1.0,0.0
+Corki,Vladimir,2.0,1.0,2.0
+Corki,Zed,1.0,1.0,0.0
+Corki,Zoe,1.0,5.0,-8.0
+Draven,Ezreal,4.0,1.0,6.0
+Draven,Xayah,1.0,1.0,0.0
+Ekko,Azir,1.0,1.0,0.0
+Elise,Gragas,1.0,2.0,-2.0
+Elise,Jarvan IV,4.0,4.0,0.0
+Elise,Lee Sin,6.0,1.0,10.0
+Elise,Olaf,1.0,1.0,0.0
+Elise,Rek'Sai,4.0,2.0,4.0
+Elise,Sejuani,3.0,5.0,-4.0
+Elise,Skarner,1.0,2.0,-2.0
+Elise,Xin Zhao,4.0,1.0,6.0
+Ezreal,Ashe,3.0,1.0,4.0
+Ezreal,Caitlyn,2.0,1.0,2.0
+Ezreal,Draven,1.0,4.0,-6.0
+Ezreal,Jinx,1.0,2.0,-2.0
+Ezreal,Kai'Sa,8.0,8.0,0.0
+Ezreal,Kalista,2.0,8.0,-12.0
+Ezreal,Lucian,4.0,3.0,2.0
+Ezreal,Sivir,16.0,17.0,-2.0
+Ezreal,Sona,1.0,4.0,-6.0
+Ezreal,Varus,4.0,9.0,-10.0
+Ezreal,Xayah,20.0,20.0,0.0
+Ezreal,Yasuo,1.0,1.0,0.0
+Fiddlesticks,Lux,1.0,1.0,0.0
+Fiddlesticks,Tahm Kench,1.0,1.0,0.0
+Fiora,Aatrox,6.0,7.0,-2.0
+Fiora,Mordekaiser,1.0,1.0,0.0
+Galio,Braum,3.0,1.0,4.0
+Galio,Lux,1.0,2.0,-2.0
+Galio,Morgana,1.0,1.0,0.0
+Galio,Nautilus,10.0,8.0,4.0
+Galio,Pyke,1.0,1.0,0.0
+Galio,Rakan,6.0,7.0,-2.0
+Gangplank,Aatrox,5.0,11.0,-12.0
+Gangplank,Akali,1.0,2.0,-2.0
+Gangplank,Gnar,1.0,1.0,0.0
+Gangplank,Irelia,2.0,1.0,2.0
+Gangplank,Kennen,1.0,2.0,-2.0
+Gangplank,Neeko,1.0,1.0,0.0
+Gangplank,Renekton,4.0,4.0,0.0
+Gangplank,Rumble,1.0,2.0,-2.0
+Gangplank,Sylas,2.0,2.0,0.0
+Gangplank,Vladimir,6.0,3.0,6.0
+Gnar,Aatrox,6.0,1.0,10.0
+Gnar,Camille,3.0,1.0,4.0
+Gnar,Gangplank,1.0,1.0,0.0
+Gnar,Kennen,2.0,2.0,0.0
+Gnar,Mordekaiser,1.0,1.0,0.0
+Gragas,Aatrox,1.0,1.0,0.0
+Gragas,Elise,2.0,1.0,2.0
+Gragas,Jarvan IV,4.0,7.0,-6.0
+Gragas,Karthus,1.0,4.0,-6.0
+Gragas,Kindred,1.0,1.0,0.0
+Gragas,Lee Sin,7.0,2.0,10.0
+Gragas,Olaf,4.0,3.0,2.0
+Gragas,Rek'Sai,4.0,6.0,-4.0
+Gragas,Sejuani,6.0,10.0,-8.0
+Gragas,Skarner,2.0,3.0,-2.0
+Gragas,Sylas,2.0,2.0,0.0
+Gragas,Xin Zhao,3.0,2.0,2.0
+Gragas,Yuumi,2.0,2.0,0.0
+Graves,Jarvan IV,1.0,1.0,0.0
+Hecarim,Jarvan IV,1.0,2.0,-2.0
+Hecarim,Renekton,1.0,1.0,0.0
+Hecarim,Sylas,1.0,1.0,0.0
+Irelia,Aatrox,5.0,10.0,-10.0
+Irelia,Akali,2.0,5.0,-6.0
+Irelia,Azir,1.0,3.0,-4.0
+Irelia,Corki,1.0,2.0,-2.0
+Irelia,Gangplank,1.0,2.0,-2.0
+Irelia,Jax,2.0,1.0,2.0
+Irelia,Jayce,4.0,1.0,6.0
+Irelia,Kennen,1.0,4.0,-6.0
+Irelia,Lissandra,1.0,1.0,0.0
+Irelia,Lux,1.0,1.0,0.0
+Irelia,Neeko,5.0,3.0,4.0
+Irelia,Poppy,1.0,1.0,0.0
+Irelia,Renekton,7.0,8.0,-2.0
+Irelia,Ryze,2.0,3.0,-2.0
+Irelia,Sylas,4.0,10.0,-12.0
+Irelia,Twisted Fate,1.0,1.0,0.0
+Jarvan IV,Elise,4.0,4.0,0.0
+Jarvan IV,Gragas,7.0,4.0,6.0
+Jarvan IV,Graves,1.0,1.0,0.0
+Jarvan IV,Hecarim,2.0,1.0,2.0
+Jarvan IV,Jayce,1.0,2.0,-2.0
+Jarvan IV,Karthus,2.0,2.0,0.0
+Jarvan IV,Lee Sin,5.0,15.0,-20.0
+Jarvan IV,Olaf,11.0,10.0,2.0
+Jarvan IV,Rek'Sai,12.0,18.0,-12.0
+Jarvan IV,Sejuani,14.0,12.0,4.0
+Jarvan IV,Skarner,4.0,7.0,-6.0
+Jarvan IV,Sylas,3.0,4.0,-2.0
+Jarvan IV,Xin Zhao,8.0,2.0,12.0
+Jax,Aatrox,5.0,2.0,6.0
+Jax,Irelia,1.0,2.0,-2.0
+Jax,Mordekaiser,1.0,1.0,0.0
+Jayce,Aatrox,9.0,14.0,-10.0
+Jayce,Akali,3.0,2.0,2.0
+Jayce,Azir,3.0,3.0,0.0
+Jayce,Camille,6.0,3.0,6.0
+Jayce,Corki,3.0,1.0,4.0
+Jayce,Irelia,1.0,4.0,-6.0
+Jayce,Jarvan IV,2.0,1.0,2.0
+Jayce,Karma,1.0,1.0,0.0
+Jayce,Kennen,5.0,2.0,6.0
+Jayce,Neeko,6.0,3.0,6.0
+Jayce,Ornn,3.0,2.0,2.0
+Jayce,Poppy,1.0,2.0,-2.0
+Jayce,Pyke,1.0,1.0,0.0
+Jayce,Renekton,3.0,3.0,0.0
+Jayce,Ryze,5.0,3.0,4.0
+Jayce,Sylas,7.0,4.0,6.0
+Jayce,Vladimir,4.0,5.0,-2.0
+Jayce,Yorick,2.0,1.0,2.0
+Jinx,Ezreal,2.0,1.0,2.0
+Jinx,Kai'Sa,1.0,1.0,0.0
+Jinx,Sivir,4.0,4.0,0.0
+Jinx,Xayah,1.0,1.0,0.0
+Kai'Sa,Ashe,1.0,2.0,-2.0
+Kai'Sa,Ezreal,8.0,8.0,0.0
+Kai'Sa,Jinx,1.0,1.0,0.0
+Kai'Sa,Kalista,1.0,2.0,-2.0
+Kai'Sa,Lucian,11.0,6.0,10.0
+Kai'Sa,Sivir,16.0,18.0,-4.0
+Kai'Sa,Sona,1.0,2.0,-2.0
+Kai'Sa,Varus,2.0,2.0,0.0
+Kai'Sa,Xayah,18.0,13.0,10.0
+Kaisa,Lucian,1.0,2.0,-2.0
+Kaisa,Xayah,2.0,1.0,2.0
+Kalista,Ezreal,8.0,2.0,12.0
+Kalista,Kai'Sa,2.0,1.0,2.0
+Kalista,Lucian,3.0,2.0,2.0
+Kalista,Varus,1.0,5.0,-8.0
+Karma,Aatrox,1.0,3.0,-4.0
+Karma,Akali,1.0,2.0,-2.0
+Karma,Azir,2.0,2.0,0.0
+Karma,Camille,1.0,1.0,0.0
+Karma,Corki,2.0,2.0,0.0
+Karma,Jayce,1.0,1.0,0.0
+Karma,Kennen,1.0,3.0,-4.0
+Karma,Kled,1.0,1.0,0.0
+Karma,Lux,5.0,4.0,2.0
+Karma,Neeko,3.0,1.0,4.0
+Karma,Ryze,1.0,1.0,0.0
+Karma,Sylas,6.0,2.0,8.0
+Karma,Tahm Kench,1.0,2.0,-2.0
+Karma,Yuumi,1.0,1.0,0.0
+Karthus,Gragas,4.0,1.0,6.0
+Karthus,Jarvan IV,2.0,2.0,0.0
+Karthus,Lee Sin,1.0,1.0,0.0
+Karthus,Olaf,3.0,2.0,2.0
+Karthus,Sejuani,3.0,6.0,-6.0
+Karthus,Skarner,1.0,1.0,0.0
+Karthus,Sylas,1.0,4.0,-6.0
+Karthus,Xin Zhao,2.0,1.0,2.0
+Kayn,Sejuani,1.0,3.0,-4.0
+Kennen,Aatrox,10.0,11.0,-2.0
+Kennen,Camille,2.0,1.0,2.0
+Kennen,Gangplank,2.0,1.0,2.0
+Kennen,Gnar,2.0,2.0,0.0
+Kennen,Irelia,4.0,1.0,6.0
+Kennen,Jayce,2.0,5.0,-6.0
+Kennen,Karma,3.0,1.0,4.0
+Kennen,Neeko,5.0,6.0,-2.0
+Kennen,Ornn,2.0,1.0,2.0
+Kennen,Poppy,1.0,1.0,0.0
+Kennen,Renekton,4.0,6.0,-4.0
+Kennen,Rumble,6.0,2.0,8.0
+Kennen,Sylas,1.0,4.0,-6.0
+Kennen,Viktor,2.0,4.0,-4.0
+Kennen,Vladimir,3.0,4.0,-2.0
+Kindred,Gragas,1.0,1.0,0.0
+Kled,Aatrox,1.0,1.0,0.0
+Kled,Karma,1.0,1.0,0.0
+LeBlanc,Azir,3.0,6.0,-6.0
+LeBlanc,Taliyah,3.0,2.0,2.0
+LeBlanc,Zoe,4.0,3.0,2.0
+Lee Sin,Elise,1.0,6.0,-10.0
+Lee Sin,Gragas,2.0,7.0,-10.0
+Lee Sin,Jarvan IV,15.0,5.0,20.0
+Lee Sin,Karthus,1.0,1.0,0.0
+Lee Sin,Olaf,10.0,7.0,6.0
+Lee Sin,Rek'Sai,2.0,5.0,-6.0
+Lee Sin,Sejuani,3.0,8.0,-10.0
+Lee Sin,Skarner,2.0,1.0,2.0
+Lee Sin,Sylas,2.0,1.0,2.0
+Lee Sin,Xin Zhao,6.0,3.0,6.0
+Lissandra,Camille,1.0,1.0,0.0
+Lissandra,Corki,1.0,2.0,-2.0
+Lissandra,Irelia,1.0,1.0,0.0
+Lucian,Ashe,2.0,1.0,2.0
+Lucian,Caitlyn,1.0,1.0,0.0
+Lucian,Corki,1.0,1.0,0.0
+Lucian,Ezreal,3.0,4.0,-2.0
+Lucian,Kai'Sa,6.0,11.0,-10.0
+Lucian,Kaisa,2.0,1.0,2.0
+Lucian,Kalista,2.0,3.0,-2.0
+Lucian,Sivir,16.0,8.0,16.0
+Lucian,Sylas,1.0,1.0,0.0
+Lucian,Varus,2.0,2.0,0.0
+Lucian,Xayah,7.0,10.0,-6.0
+Lucian,Yasuo,1.0,2.0,-2.0
+Lulu,Qiyana,1.0,1.0,0.0
+Lux,Alistar,1.0,2.0,-2.0
+Lux,Braum,4.0,3.0,2.0
+Lux,Fiddlesticks,1.0,1.0,0.0
+Lux,Galio,2.0,1.0,2.0
+Lux,Irelia,1.0,1.0,0.0
+Lux,Karma,4.0,5.0,-2.0
+Lux,Nautilus,20.0,9.0,22.0
+Lux,Pyke,2.0,5.0,-6.0
+Lux,Rakan,14.0,9.0,10.0
+Lux,Tahm Kench,24.0,23.0,2.0
+Lux,Taric,1.0,1.0,0.0
+Lux,Thresh,2.0,3.0,-2.0
+Lux,Yuumi,24.0,17.0,14.0
+Mordekaiser,Camille,3.0,1.0,4.0
+Mordekaiser,Fiora,1.0,1.0,0.0
+Mordekaiser,Gnar,1.0,1.0,0.0
+Mordekaiser,Jax,1.0,1.0,0.0
+Morgana,Galio,1.0,1.0,0.0
+Morgana,Nautilus,7.0,4.0,6.0
+Morgana,Pyke,1.0,1.0,0.0
+Morgana,Rakan,2.0,2.0,0.0
+Nautilus,Alistar,3.0,7.0,-8.0
+Nautilus,Braum,9.0,10.0,-2.0
+Nautilus,Galio,8.0,10.0,-4.0
+Nautilus,Lux,9.0,20.0,-22.0
+Nautilus,Morgana,4.0,7.0,-6.0
+Nautilus,Neeko,1.0,1.0,0.0
+Nautilus,Rakan,10.0,10.0,0.0
+Nautilus,Tahm Kench,8.0,8.0,0.0
+Nautilus,Taliyah,1.0,1.0,0.0
+Nautilus,Taric,2.0,2.0,0.0
+Nautilus,Thresh,3.0,2.0,2.0
+Nautilus,Yuumi,20.0,22.0,-4.0
+Neeko,Aatrox,7.0,5.0,4.0
+Neeko,Azir,4.0,5.0,-2.0
+Neeko,Corki,1.0,2.0,-2.0
+Neeko,Gangplank,1.0,1.0,0.0
+Neeko,Irelia,3.0,5.0,-4.0
+Neeko,Jayce,3.0,6.0,-6.0
+Neeko,Karma,1.0,3.0,-4.0
+Neeko,Kennen,6.0,5.0,2.0
+Neeko,Nautilus,1.0,1.0,0.0
+Neeko,Renekton,3.0,2.0,2.0
+Neeko,Rumble,2.0,3.0,-2.0
+Neeko,Ryze,4.0,4.0,0.0
+Neeko,Sylas,8.0,9.0,-2.0
+Neeko,Taliyah,2.0,4.0,-4.0
+Neeko,Viktor,2.0,4.0,-4.0
+Neeko,Zoe,1.0,1.0,0.0
+Olaf,Elise,1.0,1.0,0.0
+Olaf,Gragas,3.0,4.0,-2.0
+Olaf,Jarvan IV,10.0,11.0,-2.0
+Olaf,Karthus,2.0,3.0,-2.0
+Olaf,Lee Sin,7.0,10.0,-6.0
+Olaf,Rek'Sai,7.0,3.0,8.0
+Olaf,Sejuani,10.0,12.0,-4.0
+Olaf,Sylas,4.0,4.0,0.0
+Olaf,Trundle,5.0,8.0,-6.0
+Olaf,Xin Zhao,2.0,1.0,2.0
+Orianna,Azir,2.0,2.0,0.0
+Ornn,Jayce,2.0,3.0,-2.0
+Ornn,Kennen,1.0,2.0,-2.0
+Poppy,Irelia,1.0,1.0,0.0
+Poppy,Jayce,2.0,1.0,2.0
+Poppy,Kennen,1.0,1.0,0.0
+Poppy,Vladimir,1.0,1.0,0.0
+Pyke,Galio,1.0,1.0,0.0
+Pyke,Jayce,1.0,1.0,0.0
+Pyke,Lux,5.0,2.0,6.0
+Pyke,Morgana,1.0,1.0,0.0
+Pyke,Ryze,1.0,1.0,0.0
+Pyke,Tahm Kench,5.0,8.0,-6.0
+Pyke,Xayah,1.0,2.0,-2.0
+Pyke,Yuumi,2.0,1.0,2.0
+Qiyana,Azir,3.0,2.0,2.0
+Qiyana,Lulu,1.0,1.0,0.0
+Qiyana,Twisted Fate,1.0,1.0,0.0
+Rakan,Braum,3.0,3.0,0.0
+Rakan,Galio,7.0,6.0,2.0
+Rakan,Lux,9.0,14.0,-10.0
+Rakan,Morgana,2.0,2.0,0.0
+Rakan,Nautilus,10.0,10.0,0.0
+Rakan,Tahm Kench,15.0,14.0,2.0
+Rakan,Taric,1.0,2.0,-2.0
+Rakan,Thresh,3.0,3.0,0.0
+Rakan,Yuumi,7.0,8.0,-2.0
+Rek'Sai,Aatrox,1.0,1.0,0.0
+Rek'Sai,Elise,2.0,4.0,-4.0
+Rek'Sai,Gragas,6.0,4.0,4.0
+Rek'Sai,Jarvan IV,18.0,12.0,12.0
+Rek'Sai,Lee Sin,5.0,2.0,6.0
+Rek'Sai,Olaf,3.0,7.0,-8.0
+Rek'Sai,Sejuani,8.0,1.0,14.0
+Rek'Sai,Skarner,1.0,12.0,-22.0
+Rek'Sai,Sylas,1.0,1.0,0.0
+Rek'Sai,Xin Zhao,1.0,6.0,-10.0
+RekSai,Sylas,1.0,2.0,-2.0
+Renekton,Aatrox,2.0,3.0,-2.0
+Renekton,Akali,5.0,3.0,4.0
+Renekton,Camille,3.0,2.0,2.0
+Renekton,Gangplank,4.0,4.0,0.0
+Renekton,Hecarim,1.0,1.0,0.0
+Renekton,Irelia,8.0,7.0,2.0
+Renekton,Jayce,3.0,3.0,0.0
+Renekton,Kennen,6.0,4.0,4.0
+Renekton,Neeko,2.0,3.0,-2.0
+Renekton,Rumble,3.0,1.0,4.0
+Renekton,Ryze,4.0,4.0,0.0
+Renekton,Sion,1.0,3.0,-4.0
+Renekton,Sylas,3.0,4.0,-2.0
+Riven,Aatrox,1.0,1.0,0.0
+Rumble,Gangplank,2.0,1.0,2.0
+Rumble,Kennen,2.0,6.0,-8.0
+Rumble,Neeko,3.0,2.0,2.0
+Rumble,Renekton,1.0,3.0,-4.0
+Rumble,Vladimir,2.0,2.0,0.0
+Ryze,Aatrox,3.0,2.0,2.0
+Ryze,Akali,3.0,3.0,0.0
+Ryze,Corki,4.0,1.0,6.0
+Ryze,Irelia,3.0,2.0,2.0
+Ryze,Jayce,3.0,5.0,-4.0
+Ryze,Karma,1.0,1.0,0.0
+Ryze,Neeko,4.0,4.0,0.0
+Ryze,Pyke,1.0,1.0,0.0
+Ryze,Renekton,4.0,4.0,0.0
+Ryze,Sylas,6.0,11.0,-10.0
+Ryze,Syndra,2.0,3.0,-2.0
+Ryze,Zoe,2.0,2.0,0.0
+Sejuani,Aatrox,2.0,1.0,2.0
+Sejuani,Elise,5.0,3.0,4.0
+Sejuani,Gragas,10.0,6.0,8.0
+Sejuani,Jarvan IV,12.0,14.0,-4.0
+Sejuani,Karthus,6.0,3.0,6.0
+Sejuani,Kayn,3.0,1.0,4.0
+Sejuani,Lee Sin,8.0,3.0,10.0
+Sejuani,Olaf,12.0,10.0,4.0
+Sejuani,Rek'Sai,1.0,8.0,-14.0
+Sejuani,Skarner,5.0,3.0,4.0
+Sejuani,Sylas,7.0,6.0,2.0
+Sejuani,Trundle,10.0,18.0,-16.0
+Sion,Aatrox,3.0,1.0,4.0
+Sion,Renekton,3.0,1.0,4.0
+Sion,Vladimir,1.0,1.0,0.0
+Sivir,Ashe,4.0,4.0,0.0
+Sivir,Caitlyn,1.0,4.0,-6.0
+Sivir,Ezreal,17.0,16.0,2.0
+Sivir,Jinx,4.0,4.0,0.0
+Sivir,Kai'Sa,18.0,16.0,4.0
+Sivir,Lucian,8.0,16.0,-16.0
+Sivir,Sona,8.0,11.0,-6.0
+Sivir,Varus,5.0,6.0,-2.0
+Sivir,Vayne,3.0,4.0,-2.0
+Sivir,Xayah,27.0,28.0,-2.0
+Sivir,Yasuo,1.0,1.0,0.0
+Skarner,Elise,2.0,1.0,2.0
+Skarner,Gragas,3.0,2.0,2.0
+Skarner,Jarvan IV,7.0,4.0,6.0
+Skarner,Karthus,1.0,1.0,0.0
+Skarner,Lee Sin,1.0,2.0,-2.0
+Skarner,Rek'Sai,12.0,1.0,22.0
+Skarner,Sejuani,3.0,5.0,-4.0
+Skarner,Sylas,3.0,1.0,4.0
+Skarner,Trundle,2.0,1.0,2.0
+Skarner,Xin Zhao,1.0,1.0,0.0
+Sona,Ashe,1.0,1.0,0.0
+Sona,Caitlyn,3.0,2.0,2.0
+Sona,Ezreal,4.0,1.0,6.0
+Sona,Kai'Sa,2.0,1.0,2.0
+Sona,Sivir,11.0,8.0,6.0
+Sona,Varus,6.0,4.0,4.0
+Sona,Vayne,1.0,2.0,-2.0
+Sona,Vladimir,1.0,1.0,0.0
+Sona,Xayah,8.0,3.0,10.0
+Sona,Yuumi,1.0,1.0,0.0
+Sylas,Aatrox,6.0,2.0,8.0
+Sylas,Akali,5.0,5.0,0.0
+Sylas,Azir,6.0,1.0,10.0
+Sylas,Corki,2.0,1.0,2.0
+Sylas,Gangplank,2.0,2.0,0.0
+Sylas,Gragas,2.0,2.0,0.0
+Sylas,Hecarim,1.0,1.0,0.0
+Sylas,Irelia,10.0,4.0,12.0
+Sylas,Jarvan IV,4.0,3.0,2.0
+Sylas,Jayce,4.0,7.0,-6.0
+Sylas,Karma,2.0,6.0,-8.0
+Sylas,Karthus,4.0,1.0,6.0
+Sylas,Kennen,4.0,1.0,6.0
+Sylas,Lee Sin,1.0,2.0,-2.0
+Sylas,Lucian,1.0,1.0,0.0
+Sylas,Neeko,9.0,8.0,2.0
+Sylas,Olaf,4.0,4.0,0.0
+Sylas,Rek'Sai,1.0,1.0,0.0
+Sylas,RekSai,2.0,1.0,2.0
+Sylas,Renekton,4.0,3.0,2.0
+Sylas,Ryze,11.0,6.0,10.0
+Sylas,Sejuani,6.0,7.0,-2.0
+Sylas,Skarner,1.0,3.0,-4.0
+Sylas,Taliyah,4.0,2.0,4.0
+Sylas,Viktor,1.0,2.0,-2.0
+Sylas,Xin Zhao,2.0,3.0,-2.0
+Sylas,Yasuo,2.0,4.0,-4.0
+Syndra,Ryze,3.0,2.0,2.0
+Syndra,Zoe,1.0,1.0,0.0
+Tahm Kench,Braum,20.0,19.0,2.0
+Tahm Kench,Fiddlesticks,1.0,1.0,0.0
+Tahm Kench,Karma,2.0,1.0,2.0
+Tahm Kench,Lux,23.0,24.0,-2.0
+Tahm Kench,Nautilus,8.0,8.0,0.0
+Tahm Kench,Pyke,8.0,5.0,6.0
+Tahm Kench,Rakan,14.0,15.0,-2.0
+Tahm Kench,Taric,7.0,2.0,10.0
+Tahm Kench,Yuumi,4.0,7.0,-6.0
+Taliyah,Azir,2.0,4.0,-4.0
+Taliyah,Corki,1.0,1.0,0.0
+Taliyah,LeBlanc,2.0,3.0,-2.0
+Taliyah,Nautilus,1.0,1.0,0.0
+Taliyah,Neeko,4.0,2.0,4.0
+Taliyah,Sylas,2.0,4.0,-4.0
+Taric,Lux,1.0,1.0,0.0
+Taric,Nautilus,2.0,2.0,0.0
+Taric,Rakan,2.0,1.0,2.0
+Taric,Tahm Kench,2.0,7.0,-10.0
+Taric,Yuumi,2.0,4.0,-4.0
+Thresh,Braum,1.0,2.0,-2.0
+Thresh,Lux,3.0,2.0,2.0
+Thresh,Nautilus,2.0,3.0,-2.0
+Thresh,Rakan,3.0,3.0,0.0
+Thresh,Yuumi,2.0,2.0,0.0
+Trundle,Olaf,8.0,5.0,6.0
+Trundle,Sejuani,18.0,10.0,16.0
+Trundle,Skarner,1.0,2.0,-2.0
+Twisted Fate,Azir,1.0,1.0,0.0
+Twisted Fate,Irelia,1.0,1.0,0.0
+Twisted Fate,Qiyana,1.0,1.0,0.0
+Varus,Ashe,3.0,3.0,0.0
+Varus,Caitlyn,4.0,1.0,6.0
+Varus,Ezreal,9.0,4.0,10.0
+Varus,Kai'Sa,2.0,2.0,0.0
+Varus,Kalista,5.0,1.0,8.0
+Varus,Lucian,2.0,2.0,0.0
+Varus,Sivir,6.0,5.0,2.0
+Varus,Sona,4.0,6.0,-4.0
+Varus,Xayah,5.0,4.0,2.0
+Vayne,Sivir,4.0,3.0,2.0
+Vayne,Sona,2.0,1.0,2.0
+Veigar,Azir,2.0,1.0,2.0
+Veigar,Corki,1.0,1.0,0.0
+Vel'koz,Azir,1.0,2.0,-2.0
+Viktor,Kennen,4.0,2.0,4.0
+Viktor,Neeko,4.0,2.0,4.0
+Viktor,Sylas,2.0,1.0,2.0
+Vladimir,Akali,1.0,1.0,0.0
+Vladimir,Camille,1.0,3.0,-4.0
+Vladimir,Corki,1.0,2.0,-2.0
+Vladimir,Gangplank,3.0,6.0,-6.0
+Vladimir,Jayce,5.0,4.0,2.0
+Vladimir,Kennen,4.0,3.0,2.0
+Vladimir,Poppy,1.0,1.0,0.0
+Vladimir,Rumble,2.0,2.0,0.0
+Vladimir,Sion,1.0,1.0,0.0
+Vladimir,Sona,1.0,1.0,0.0
+Vladimir,Yasuo,2.0,1.0,2.0
+Xayah,Ashe,2.0,4.0,-4.0
+Xayah,Caitlyn,2.0,6.0,-8.0
+Xayah,Draven,1.0,1.0,0.0
+Xayah,Ezreal,20.0,20.0,0.0
+Xayah,Jinx,1.0,1.0,0.0
+Xayah,Kai'Sa,13.0,18.0,-10.0
+Xayah,Kaisa,1.0,2.0,-2.0
+Xayah,Lucian,10.0,7.0,6.0
+Xayah,Pyke,2.0,1.0,2.0
+Xayah,Sivir,28.0,27.0,2.0
+Xayah,Sona,3.0,8.0,-10.0
+Xayah,Varus,4.0,5.0,-2.0
+Xin Zhao,Elise,1.0,4.0,-6.0
+Xin Zhao,Gragas,2.0,3.0,-2.0
+Xin Zhao,Jarvan IV,2.0,8.0,-12.0
+Xin Zhao,Karthus,1.0,2.0,-2.0
+Xin Zhao,Lee Sin,3.0,6.0,-6.0
+Xin Zhao,Olaf,1.0,2.0,-2.0
+Xin Zhao,Rek'Sai,6.0,1.0,10.0
+Xin Zhao,Skarner,1.0,1.0,0.0
+Xin Zhao,Sylas,3.0,2.0,2.0
+Yasuo,Aatrox,1.0,1.0,0.0
+Yasuo,Akali,2.0,2.0,0.0
+Yasuo,Ezreal,1.0,1.0,0.0
+Yasuo,Lucian,2.0,1.0,2.0
+Yasuo,Sivir,1.0,1.0,0.0
+Yasuo,Sylas,4.0,2.0,4.0
+Yasuo,Vladimir,1.0,2.0,-2.0
+Yasuo,Zoe,1.0,1.0,0.0
+Yorick,Jayce,1.0,2.0,-2.0
+Yuumi,Alistar,4.0,7.0,-6.0
+Yuumi,Braum,2.0,1.0,2.0
+Yuumi,Gragas,2.0,2.0,0.0
+Yuumi,Karma,1.0,1.0,0.0
+Yuumi,Lux,17.0,24.0,-14.0
+Yuumi,Nautilus,22.0,20.0,4.0
+Yuumi,Pyke,1.0,2.0,-2.0
+Yuumi,Rakan,8.0,7.0,2.0
+Yuumi,Sona,1.0,1.0,0.0
+Yuumi,Tahm Kench,7.0,4.0,6.0
+Yuumi,Taric,4.0,2.0,4.0
+Yuumi,Thresh,2.0,2.0,0.0
+Zed,Corki,1.0,1.0,0.0
+Zoe,Azir,6.0,7.0,-2.0
+Zoe,Corki,5.0,1.0,8.0
+Zoe,LeBlanc,3.0,4.0,-2.0
+Zoe,Neeko,1.0,1.0,0.0
+Zoe,Ryze,2.0,2.0,0.0
+Zoe,Syndra,1.0,1.0,0.0
+Zoe,Yasuo,1.0,1.0,0.0
